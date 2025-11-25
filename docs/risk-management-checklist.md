@@ -172,4 +172,4 @@ This checklist helps Risk Managers and Project Managers systematically identify,
 
 ---
 
-*This checklist supports proactive risk management practices aligned with OctoAcme project management principles. Adapt to fit your project's specific needs while maintaining core risk management practices.*
+*This checklist supports proactive risk management practices aligned with OctoAcme project management principles. Customize sections based on project complexity and risk profile while maintaining core risk management practices.*

@@ -356,4 +356,4 @@ This checklist helps Quality Assurance Leads ensure comprehensive quality review
 
 ---
 
-*This checklist supports comprehensive quality assurance practices aligned with OctoAcme project management principles. Adapt sections based on project complexity, risk profile, and team maturity while maintaining core quality standards.*
+*This checklist supports comprehensive quality assurance practices aligned with OctoAcme project management principles. Customize sections based on project complexity, risk profile, and team maturity while maintaining core quality standards.*
